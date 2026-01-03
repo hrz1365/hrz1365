@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I’m Hamidreza Zoraghein 👋
 
-<!--
-**hrz1365/hrz1365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Data Scientist** focused on **predictive modeling, simulation, and
+machine learning** for energy, infrastructure, population dynamics, and climate-related systems.
 
-Here are some ideas to get you started:
+### 🔍 Areas of focus
+- Predictive modeling & forecasting
+- Large language models
+- Simulation & scenario analysis
+- Geospatial analytics
+- Machine learning & decision support
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Website: https://hrz1365.github.io  
+💼 LinkedIn: https://www.linkedin.com/in/hzoraghein/  
+📄 Google Scholar: https://scholar.google.com/citations?user=eDA0w88AAAAJ&hl=en
